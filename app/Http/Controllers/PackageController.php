@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use app\Package;
+use App\Package;
 class PackageController extends Controller
 
 {
